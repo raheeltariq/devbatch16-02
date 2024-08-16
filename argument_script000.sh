@@ -6,4 +6,10 @@ echo The first argument is $1
 
 echo The second argument is $2
 
-echo The third argument is $3
+echo The third argument is $
+
+echo The first argument is $4
+
+echo The second argument is $5
+
+echo The third argument is $6
